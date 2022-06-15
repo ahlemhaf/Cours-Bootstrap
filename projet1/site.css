@@ -1,0 +1,21 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#hi{
+    position: static;
+    z-index: 1000px;
+}
+#h{
+   position: absolute;
+   z-index: 100px;
+   top:250px;
+   left:350px;
+ 
+}
+#b{
+    position: absolute;
+    z-index: 100px;
+    top:370px;
+    left:450px;
+    border-radius: 5px;
+}
